@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :coffee: &emsp;Connect with me!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-seeker009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="https://www.linkedin.com/in/mr-seeker009/" height="30" width="40"  /></a>
+<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Md. Nayeem | LinkedIn" width="21px"/></a>
 </p>
 
 
