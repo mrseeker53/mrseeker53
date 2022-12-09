@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="40px"/></a>
 </p>
 <br/>
-
+<br/>
 
 ### 🛠 &nbsp;Things I work with
 
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Firebase" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"/>](https://github.com/mrseeker53)
 [<img align="left" alt="Git" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>](https://github.com/mrseeker53)
 
+<br/>
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
