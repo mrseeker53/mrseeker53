@@ -13,24 +13,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋, I'm Md. Nayeem
-### 💻 A Software Engineer from Bangladesh
+<h1 align="center">Hi there 👋, I'm Md. Nayeem</h1>
+<h3 align="center">💻 A Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
 
-:coffee: &emsp;Connect with me!
+### :coffee: &emsp;Connect with me!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="40px"/></a>
 </p>
 <br/>
 
 
 ### 🛠 &nbsp;Things I work with
 
-[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="MongoDB" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="ExpressJS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="React" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="NodeJs" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="HTML" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="CSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="Bootstrap" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="TailwindCSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="MaterialUI" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="Firebase" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="Git" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>](https://github.com/mrseeker53)
 
+<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
