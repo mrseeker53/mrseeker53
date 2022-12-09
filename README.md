@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi There 👋, I'm Md. Nayeem</h1>
-<h3 align="center">💻 A Full Stack Developer from Bangladesh</h3>
+<h1 align="center">Hi there 👋, I'm Md. Nayeem</h1>
+<h3 align="center">💻 Software Engineer from Bangladesh</h3>
+
 
 :coffee: &emsp;Connect with me!
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <a href="https://github.com/SumanIslam/">
+  <a href="https://github.com/mrseeker53/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrseeker53&theme=nord_dark" />
