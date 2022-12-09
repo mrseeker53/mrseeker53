@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There 👋, I'm Md. Nayeem</h1>
 <h3 align="center">💻 A Full Stack Developer from Bangladesh</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&show_icons=true&hide_border=true)](https://github.com/mrseeker53)
+
 :coffee: &emsp;Connect with me!
 
 <p align="left">
@@ -24,11 +26,21 @@ Here are some ideas to get you started:
 </p>
 <br/>
 
+
 ### 🛠 &nbsp;Things I work with
 
-[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>][github]
-![github](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>][https://github.com/mrseeker53]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][https://github.com/mrseeker53]
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p>
+  <a href="https://github.com/SumanIslam/">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrseeker53&theme=nord_dark" />
+  </a>
+</p>
 
 
