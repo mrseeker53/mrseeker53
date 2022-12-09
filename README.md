@@ -57,6 +57,3 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia"/>
   </a>
 </p>
-
-
-![mrseeker53 Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia)
