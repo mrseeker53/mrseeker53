@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
-- 💬 Ask me about "JavScript, React & Node"
-- 📫 How to reach me: "mi.nayeem30@gmail.com"
+- 💬 Ask me about **JavScript, React & Node**
+- 📫 How to reach me: **mi.nayeem30@gmail.com**
 
 ### ☕ &nbsp;Connect with me!
 
