@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Things I work with
 
-[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>]
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>][github]
+![github](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 
 
