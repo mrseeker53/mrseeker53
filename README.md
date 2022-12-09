@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋, I'm Md. Nayeem
-### 💻 A Software Engineer from Bangladesh   <p align="right"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
+### 💻 A Software Engineer from Bangladesh
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
 
 :coffee: &emsp;Connect with me!
