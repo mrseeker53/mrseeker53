@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Hi there 👋, I'm Md. Nayeem</h1>
-<h3 align="center">💻 Software Engineer from Bangladesh</h3>
+## Hi there 👋, I'm Md. Nayeem
+### 💻 A Software Engineer from Bangladesh   <p align="right"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
 
 :coffee: &emsp;Connect with me!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Md. Nayeem | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="21px"/></a>
 </p>
 <br/>
 
@@ -29,7 +28,6 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Things I work with
 
 [<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>](https://github.com/mrseeker53)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -43,8 +41,3 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mrseeker53)](https://github.com/mrseeker53)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact)](https://github.com/mrseeker53)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
