@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
 
-### :coffee: &emsp;Connect with me!
+### ☕ &nbsp;Connect with me!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="40px"/></a>
