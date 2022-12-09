@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There 👋, I'm Md. Nayeem</h1>
 <h3 align="center">💻 A Full Stack Developer from Bangladesh</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&show_icons=true&hide_border=true)](https://github.com/mrseeker53)
-
 :coffee: &emsp;Connect with me!
 
 <p align="left">
@@ -29,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Things I work with
 
-[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>][https://github.com/mrseeker53]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][https://github.com/mrseeker53]
+[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>](https://github.com/mrseeker53)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -44,3 +42,8 @@ Here are some ideas to get you started:
 </p>
 
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mrseeker53)](https://github.com/mrseeker53)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact)](https://github.com/mrseeker53)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
