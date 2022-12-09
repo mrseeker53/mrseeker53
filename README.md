@@ -54,7 +54,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/mrseeker53/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=mrseeker53"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=mrseeker53&theme=algolia"/>
+    ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia&hide_border=true)
   </a>
 </p>
 
