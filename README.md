@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Md. Nayeem</h1>
-<h3 align="center">💻 A Software Engineer from Bangladesh</h3>
+<h3 align="center">💻 Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
