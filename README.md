@@ -32,18 +32,20 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Things I work with
 
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="MongoDB" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="ExpressJS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="React" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="NodeJs" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="HTML" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="CSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="Bootstrap" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="TailwindCSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="MaterialUI" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="Firebase" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"/>](https://github.com/mrseeker53)
-[<img align="left" alt="Git" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>](https://github.com/mrseeker53)
+<a href="https://github.com/mrseeker53/">
+  [<img align="left" alt="JavaScript" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="MongoDB" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="ExpressJS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="React" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="NodeJs" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="HTML" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="CSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="Bootstrap" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="TailwindCSS" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="MaterialUI" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg"/>](https://github.com/mrseeker53)
+  [<img align="left" alt="Firebase" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"/>]
+  [<img align="left" alt="Git" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>]
+</a>
 
 <br/>
 <br/>
