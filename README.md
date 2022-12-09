@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Md. Nayeem | LinkedIn" width="21px"/></a>
 </p>
 
-### Things I work with
+<br/>
+<br/>
 
-[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>][github]
+### 🛠 &nbsp;Things I work with
+
+[<img align="left" alt="Pytorch" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>]
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
 
