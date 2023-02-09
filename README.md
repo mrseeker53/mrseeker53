@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Md. Nayeem</h1>
-<h3 align="center">💻 Software Engineer from Bangladesh</h3>
+<h3 align="center">💻 Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
 - 🔭 I’m currently working on [Swaplap](https://swaplap-24cd2.web.app/)
-- 💬 Ask me about **JavScript, React & Node**
+- 💬 Ask me about **JavScript and React**
 - 📫 How to reach me: **mi.nayeem30@gmail.com**
 
 ### ☕ &nbsp;Connect with me!
