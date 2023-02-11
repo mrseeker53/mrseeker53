@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
 
-- 🔭 I’m currently working on [Swaplap](https://swaplap-24cd2.web.app/)
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on [Swaplap](https://swaplap-24cd2.web.app)
+- 🌱 I’m currently learning **Redux**
+- 👯 I’m looking to collaborate on an **open source project**
 - 💬 Ask me about **JavScript and React**
 - 📫 How to reach me: **mi.nayeem30@gmail.com**
 
