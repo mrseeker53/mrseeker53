@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### ☕ &nbsp;Connect with me!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mr-seeker009/"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mr-seeker009" width="40px"/></a>
+<a href="https://www.linkedin.com/in/mrseeker53"><img align="left" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mrseeker53" width="40px"/></a>
 </p>
 <br/>
 <br/>
