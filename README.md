@@ -3,47 +3,65 @@
 <h3 align="center">💻 Aspiring Frontend Developer from Bangladesh</h3>
 
 
-### 🛠 &nbsp;Tools
+### 🛠 &nbsp;Playing Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%230081CB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%2329313d?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/DevTool-dark?style=for-the-badge&logo=google%20chrome&logoColor=EA4555&color=40A2D8)
 
 
+As an aspiring Software Developer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications with the help of optimization and responsiveness.
 
-- 🔭 I’m currently working on [GitFair](https://gitfair.web.app)
+Technical knowledge of JavaScript and hands-on experience in web application development. Working with JavaScript, ReactJS, and familiar with NextJS, SASS, REST API and Redux.
+
+
+<!--  - 🔭 I’m currently working on [GitFair](https://gitfair.web.app)  -->
 - 🌱 I’m currently learning - **SASS**
-- 👯 I’m currently open for work and employment opportunities (onsite and remote)
+- 👯 I’m currently **open for work opportunities** (onsite and remote)
 - 💬 Ask me about - **JavScript and React**
-- 📫 How to reach me: **mi.nayeem30@gmail.com**
+- 📫 I am just one mail away: **mi.nayeem30@gmail.com**
+- ⚡ Fun fact: I love to travel with friends but sometimes want to go solely
 
 
 ### ☕ &nbsp;Connect with me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mrseeker53)
+
+<!-- Profile Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/mrseeker53/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
+   
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia&layout=compact"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&show_icons=true&theme=algolia"/>
+   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 
