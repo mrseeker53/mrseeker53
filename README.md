@@ -41,8 +41,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/mrseeker53/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrseeker53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&layout=compact"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrseeker53&theme=algolia&layout=compact"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&show_icons=true&theme=algolia"/>
 </a>
 
 
