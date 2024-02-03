@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Nayeem 👋</h1>
-<h3 align="center">💻 Aspiring Frontend Developer from Bangladesh</h3>
+<h3 align="center">💻 Frontend Developer from Bangladesh</h3>
 
 
 As an aspiring Software Developer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications with the help of optimization and responsiveness.
