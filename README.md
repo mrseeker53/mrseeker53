@@ -9,7 +9,7 @@ Technical knowledge of JavaScript and hands-on experience in web application dev
 
 
 <!--  - 🔭 I’m currently working on [GitFair](https://gitfair.web.app)  -->
-- 🌱 I’m currently learning - **SASS**
+- 🌱 I’m currently learning - **Next.js**
 - 👯 I’m currently **open for work opportunities** (onsite and remote)
 - 💬 Ask me about - **JavScript and React**
 - 📫 I am just one mail away: **mi.nayeem30@gmail.com**
