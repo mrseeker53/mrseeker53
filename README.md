@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi, I'm Nayeem 👋</h1>
-<h3 align="center">💻 Frontend Developer from Bangladesh</h3>
+<h3 align="center">💻 Software Developer from Bangladesh</h3>
 
 
-As an aspiring Software Developer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications with the help of optimization and responsiveness.
+As an aspiring Software Developer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications through optimization and responsiveness.
 
-Technical knowledge of JavaScript and hands-on experience in web application development. Working with JavaScript, ReactJS, and familiar with NextJS, SASS, REST API and Redux.
+Technical knowledge of JavaScript and hands-on experience in web application development. Working with JavaScript, ReactJS, NextJS, and familiar with SASS, REST API, and Redux.
 
 
 <!--  - 🔭 I’m currently working on [GitFair](https://gitfair.web.app)  -->
 - 🌱 I’m currently learning - **Next.js**
 - 👯 I’m currently **open for work opportunities** (onsite and remote)
-- 💬 Ask me about - **JavScript and React**
+- 💬 Ask me about - **JavScript, React.js and Next.js**
 - 📫 I am just one mail away: **mi.nayeem30@gmail.com**
 - ⚡ Fun fact: I love to travel with friends but sometimes want to go solely
 
