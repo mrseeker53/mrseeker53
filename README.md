@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi, I'm Nayeem 👋</h1>
-<h3 align="center">💻 Software Developer from Bangladesh</h3>
+<h3 align="center">💻 Software Engineer from Bangladesh</h3>
 
 
-As an aspiring Software Developer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications through optimization and responsiveness.
+As an aspiring Software Engineer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications through optimization and responsiveness.
 
 Technical knowledge of JavaScript and hands-on experience in web application development. Working with JavaScript, ReactJS, NextJS, and familiar with SASS, REST API, and Redux.
 
