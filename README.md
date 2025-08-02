@@ -5,11 +5,6 @@
 
 As a passionate Software Engineer with experience in building scalable web applications and AI-integrated services. I enjoy building clean UIs, solving backend challenges, and collaborating in agile teams.
 
-🛠️ **Tech Stack**  
-**Languages & Frameworks:** JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js  
-**Database:** MongoDB, SQL Server  
-**Styling:** Tailwind CSS  
-**Tools:** Git, GitHub, Jira, VS Code, Linux  
 
 🔭 Currently working on:
 - Role-based data review and data classification services to increase AI-extracted data accuracy by training the AI model.
@@ -29,10 +24,10 @@ As a passionate Software Engineer with experience in building scalable web appli
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/SQL-Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
