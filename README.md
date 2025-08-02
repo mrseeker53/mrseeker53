@@ -11,13 +11,14 @@ As a passionate Software Engineer with experience in building scalable web appli
 **Styling:** Tailwind CSS  
 **Tools:** Git, GitHub, Jira, VS Code, Linux  
 
+🔭 I’m currently working on:
+- Role-based data review and data classification services to increase AI-extracted data accuracy by training the AI model.
 
-<!--  - 🔭 I’m currently working on [GitFair](https://gitfair.web.app)  -->
-<!--  - 🌱 I’m currently learning - **Next.js**
+
+<!--
 - 👯 I’m currently **open for work opportunities** (onsite and remote)
 - 💬 Ask me about - **JavScript, React.js and Next.js**
-- 📫 I am just one mail away: **mi.nayeem30@gmail.com**
-- ⚡ Fun fact: I love to travel with friends but sometimes want to go solely -->
+-->
 
 
 ### 🛠 &nbsp;Playing Tools
@@ -63,7 +64,7 @@ As a passionate Software Engineer with experience in building scalable web appli
    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
+📫 Email: **mi.nayeem30@gmail.com**
 
 
 <!--
