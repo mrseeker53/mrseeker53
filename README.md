@@ -50,6 +50,7 @@ As a passionate Software Engineer with experience in building scalable web appli
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mrseeker53)
+📫 Email: **mi.nayeem30@gmail.com**
 
 <!-- Profile Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrseeker53" alt="mrseeker53" /> </p>
@@ -64,7 +65,7 @@ As a passionate Software Engineer with experience in building scalable web appli
    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrseeker53&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-📫 Email: **mi.nayeem30@gmail.com**
+
 
 
 <!--
