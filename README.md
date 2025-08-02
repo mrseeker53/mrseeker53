@@ -3,11 +3,11 @@
 <h3 align="center">💻 Software Engineer from Bangladesh</h3>
 
 
-As a passionate Software Engineer with experience in building scalable web applications and AI-integrated services. I enjoy building clean UIs, solving backend challenges, and collaborating in agile teams.
+Software Engineer with hands-on experience in full-stack web application development using modern JavaScript technologies. I enjoy building clean UIs and solving backend challenges.
 
-
-🔭 Currently working on:
-- Role-based data review and data classification services to increase AI-extracted data accuracy by training the AI model.
+Contributed to enhancing a Risk Management System by integrating role-based data review and data classification features to increase AI extracted data accuracy by training an AI model using React.js, Express.js, SQL Server, and MongoDB.
+Built and maintained scalable UI components in a SaaS platform using Next.js, Redux, and Tailwind CSS. 
+Skilled in debugging, API integration, and agile collaboration with Git, Jira, and Linux.
 
 
 <!--
