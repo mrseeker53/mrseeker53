@@ -3,17 +3,21 @@
 <h3 align="center">💻 Software Engineer from Bangladesh</h3>
 
 
-As an aspiring Software Engineer with consistent learning habits, I love to work with web technologies. Focusing on creating user-friendly and visually appealing web applications through optimization and responsiveness.
+As a passionate Software Engineer with experience in building scalable web applications and AI-integrated services. I enjoy building clean UIs, solving backend challenges, and collaborating in agile teams.
 
-Technical knowledge of JavaScript and hands-on experience in web application development. Working with JavaScript, ReactJS, NextJS, and familiar with SASS, REST API, and Redux.
+🛠️ **Tech Stack**  
+**Languages & Frameworks:** JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js  
+**Database:** MongoDB, SQL Server  
+**Styling:** Tailwind CSS  
+**Tools:** Git, GitHub, Jira, VS Code, Linux  
 
 
 <!--  - 🔭 I’m currently working on [GitFair](https://gitfair.web.app)  -->
-- 🌱 I’m currently learning - **Next.js**
+<!--  - 🌱 I’m currently learning - **Next.js**
 - 👯 I’m currently **open for work opportunities** (onsite and remote)
 - 💬 Ask me about - **JavScript, React.js and Next.js**
 - 📫 I am just one mail away: **mi.nayeem30@gmail.com**
-- ⚡ Fun fact: I love to travel with friends but sometimes want to go solely
+- ⚡ Fun fact: I love to travel with friends but sometimes want to go solely -->
 
 
 ### 🛠 &nbsp;Playing Tools
