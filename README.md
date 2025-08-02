@@ -47,7 +47,7 @@ As a passionate Software Engineer with experience in building scalable web appli
 ### ☕ &nbsp;Connect with me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mrseeker53)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/mrseeker53)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-mi.nayeem30@gmail.com-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mi.nayeem30@gmail.com)
 
