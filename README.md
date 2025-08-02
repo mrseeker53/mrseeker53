@@ -7,6 +7,7 @@ Software Engineer with hands-on experience in full-stack web application develop
 
 Contributed to enhancing a Risk Management System by integrating role-based data review and data classification features to increase AI extracted data accuracy by training an AI model using React.js, Express.js, SQL Server, and MongoDB.
 Built and maintained scalable UI components in a SaaS platform using Next.js, Redux, and Tailwind CSS. 
+
 Skilled in debugging, API integration, and agile collaboration with Git, Jira, and Linux.
 
 
@@ -23,33 +24,33 @@ Skilled in debugging, API integration, and agile collaboration with Git, Jira, a
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL-Server-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-%2329313d.svg?style=flat&logo=next.js&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL-Server-CC2927.svg?style=plastic&logo=microsoftsqlserver&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%2329313d.svg?style=plastic&logo=next.js&logoColor=white)
 
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=insomnia&logoColor=000)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=plastic&logo=insomnia&logoColor=000)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=plastic&logo=jira&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=ubuntu&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
 ### ☕ &nbsp;Connect with me!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=social&logo=X&logoColor=white)](https://x.com/mrseeker53)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white)](https://x.com/mrseeker53)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-mi.nayeem30@gmail.com-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mi.nayeem30@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-mi.nayeem30@gmail.com-D14836.svg?style=plastic&logo=gmail&logoColor=white)](mailto:mi.nayeem30@gmail.com)
 
 
 <!-- Profile Counter -->
