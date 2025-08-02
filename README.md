@@ -18,11 +18,11 @@ As a passionate Software Engineer with experience in building scalable web appli
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%230081CB.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%230081CB.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/SQL-Server-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-%2329313d.svg?style=flat&logo=next.js&logoColor=white)
 
@@ -47,7 +47,7 @@ As a passionate Software Engineer with experience in building scalable web appli
 ### ☕ &nbsp;Connect with me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrseeker53)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/mrseeker53)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=social&logo=X&logoColor=white)](https://x.com/mrseeker53)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-mi.nayeem30@gmail.com-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:mi.nayeem30@gmail.com)
 
